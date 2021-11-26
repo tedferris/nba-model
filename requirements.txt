@@ -1,0 +1,4 @@
+nba-api
+nba_api
+requests
+pandas
